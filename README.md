@@ -17,7 +17,7 @@ Ce premier jeu de mot célèbre est présent dans l’Odyssée de Homère. Lorsq
 Les jeux de mots prennent une place importante dans notre société et notamment sur les réseaux sociaux comme Twitter, Instagram, Facebook ou TikTok.
 Popularisée par une nouvelle forme dites des “Jeux de mots racistes”, popularisé principalement par des influenceurs comme Mastu qui a mis à jour l’exemple le plus utilisé partant d’un mot dont la dernière syllabe est “né” ou toute prononciation y ressemblant et un second mot commençant par la syllabe “gro” ou “grau”. Un exemple concret serait celui dans la vidéo “Duel de Blague au Loat” posté sur la chaîne de Théodore sur youtube. Dans la chanson à 3:40, voici le jeu de mots “Je vais tous les faire halluciner gros”. On remarque ici la forme du jeu de mots avec “halluciner” finissant par “ner” (= né) et “gros” commençant par “gro”.
 
-#### Les types de jeu de mots
+## Les types de jeu de mots
 
 **Mot-valise**
 
